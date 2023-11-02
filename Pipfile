@@ -9,6 +9,9 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 ipykernel = "*"
+lxml = "*"
+html5lib = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
