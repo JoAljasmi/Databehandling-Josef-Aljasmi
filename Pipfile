@@ -12,6 +12,9 @@ ipykernel = "*"
 lxml = "*"
 html5lib = "*"
 beautifulsoup4 = "*"
+plotly-express = "*"
+nbformat = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
