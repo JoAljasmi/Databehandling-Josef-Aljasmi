@@ -15,6 +15,7 @@ beautifulsoup4 = "*"
 plotly-express = "*"
 nbformat = "*"
 python-dotenv = "*"
+kaleido = "*"
 
 [dev-packages]
 
