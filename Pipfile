@@ -17,8 +17,11 @@ nbformat = "*"
 python-dotenv = "*"
 kaleido = "*"
 dash = "*"
+<<<<<<< HEAD
 dash-bootstrap-components = "*"
 dash-bootstrap-templates = "*"
+=======
+>>>>>>> aee4ea907770041ee1572c8eade0757e55dc7d9e
 
 [dev-packages]
 
