@@ -10,7 +10,7 @@ from dash_bootstrap_templates import load_figure_template
 load_figure_template("flatly")
 
 # Loading the data
-athlete_events_df = pd.read_csv('../Data/athlete_events.csv')
+athlete_events_df = pd.read_csv('athlete_events.csv')
 
 #Hashlibing the names of the athletes
 athlete_events_df['Name'] = athlete_events_df['Name'].apply(lambda x: hashlib.sha256(x.encode()).hexdigest())
